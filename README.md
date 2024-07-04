@@ -5,8 +5,6 @@ Eu sou um desenvolvedor entusiasmado, gosto muito de criar códigos consistentes
 Sempre tento sair da minha zona de conforto, assim consigo obter novos aprendizados, seja sobre algo novo ou sobre algo que já conheço. 
 Prezo pelo código limpo sempre que possível e pelas boas práticas.
 
----
-
 ## Tecnologias e Ferramentas
 Aqui estão algumas das tecnologias e ferramentas com as quais trabalho frequentemente:
 
@@ -14,8 +12,6 @@ Aqui estão algumas das tecnologias e ferramentas com as quais trabalho frequent
 - **Frameworks:** [Angular](https://angular.dev/), [Express](https://expressjs.com/), [Spring](https://spring.io/), [NestJS](https://nestjs.com/)
 - **Banco de Dados:** PostgreSQL, Firebird, MySQL
 - **Outros:** Node.js, Git, Redmine, Space
-
----
 
 ## Experiência Profissional
 
@@ -28,8 +24,6 @@ Aqui estão algumas das tecnologias e ferramentas com as quais trabalho frequent
    - Testes de qualidade
    - Participação em revisões de código e mentoria de novos desenvolvedores
    - Demais tarefas necessárias para garantir o sucesso dos projetos
-
----
 
 ## Projetos:
 
@@ -44,8 +38,6 @@ Aqui estão algumas das tecnologias e ferramentas com as quais trabalho frequent
 3. **[Limber Chef](https://limberchef.com.br)**
    - Participei deste projeto desde o início, é um sistema para restaurantes com foco em gerenciamento de pedidos, mesas e comandas
    - **Tecnologias:** Angular, Express, PostgreSQL, GitLab
-   
----
    
 ## Como me Contatar
 Você pode me encontrar nas seguintes plataformas:
