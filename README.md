@@ -5,6 +5,8 @@ Eu sou um desenvolvedor entusiasmado, gosto muito de criar códigos consistentes
 Sempre tento sair da minha zona de conforto, assim consigo obter novos aprendizados, seja sobre algo novo ou sobre algo que já conheço. 
 Prezo pelo código limpo sempre que possível e pelas boas práticas.
 
+---
+
 ## Tecnologias e Ferramentas
 Aqui estão algumas das tecnologias e ferramentas com as quais trabalho frequentemente:
 
@@ -13,15 +15,21 @@ Aqui estão algumas das tecnologias e ferramentas com as quais trabalho frequent
 - **Banco de Dados:** PostgreSQL, Firebird, MySQL
 - **Outros:** Node.js, Git, Redmine, Space
 
-## Experiência Profissional
-Atualmente, trabalho como desenvolvedor fullstack na [Hábil Software](https://www.habil.com.br) by [Limber](https://limbersoftware.com.br), onde contribuo para diversos projetos internos e privados hospedados no GitLab. Minhas responsabilidades incluem:
+---
 
-- Desenvolvimento de aplicações utilizando Angular, Spring e Express
-- Implementação de novas funcionalidades e desenvolvimento de novos projetos
-- Correção de problemas e bugs em aplicações existentes
-- Testes de qualidade
-- Participação em revisões de código e mentoria de novos desenvolvedores
-- Demais tarefas necessárias para garantir o sucesso dos projetos
+## Experiência Profissional
+
+* ### Hábil Software - mar/2022 à atualmente
+   Atualmente, trabalho como desenvolvedor fullstack na [Hábil Software](https://www.habil.com.br) by [Limber](https://limbersoftware.com.br), onde contribuo para diversos projetos internos e privados hospedados no GitLab. Minhas responsabilidades incluem:
+   
+   - Desenvolvimento de aplicações utilizando Angular, Spring e Express
+   - Implementação de novas funcionalidades e desenvolvimento de novos projetos
+   - Correção de problemas e bugs em aplicações existentes
+   - Testes de qualidade
+   - Participação em revisões de código e mentoria de novos desenvolvedores
+   - Demais tarefas necessárias para garantir o sucesso dos projetos
+
+---
 
 ## Projetos:
 
@@ -36,6 +44,8 @@ Atualmente, trabalho como desenvolvedor fullstack na [Hábil Software](https://w
 3. **[Limber Chef](https://limberchef.com.br)**
    - Participei deste projeto desde o início, é um sistema para restaurantes com foco em gerenciamento de pedidos, mesas e comandas
    - **Tecnologias:** Angular, Express, PostgreSQL, GitLab
+   
+---
    
 ## Como me Contatar
 Você pode me encontrar nas seguintes plataformas:
