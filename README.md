@@ -27,7 +27,7 @@ Aqui estão algumas das tecnologias e ferramentas com as quais trabalho frequent
 
 ## Projetos:
 
-1. **[WebBicho](https://github.com/LuizSivan/Webbicho)**
+1. **[WebBicho](https://github.com/LuizSivan/WebBicho)**
     - Atualmente, este é meu único projeto pessoal, ainda em fase de desenvolvimento. Este projeto é uma rede social com objetivo de centralizar a doação e adoção de animais e solucionar a falta de centralização deste processo.
     - **Tecnologias:** Angular, NestJS, PostgreSQL, GitHub
 
