@@ -2,8 +2,8 @@
 
 ## Sobre Mim
 Eu sou um desenvolvedor entusiasmado, gosto muito de criar códigos consistentes e vê-los funcionando. 
-Sempre tento sair da minha zona de conforto, assim consigo obter novos aprendizados, seja sobre algo novo ou sobre algo que já conheço. 
-Prezo pelo código limpo sempre que possível e pelas boas práticas.
+Sempre tento sair da minha zona de conforto, assim consigo obter novos aprendizados, seja de uma linguagem ou tecnologia nova ou sobre alguma que já conheço. 
+Prezo pelo código limpo sempre que possível e pelas boas práticas, bem como padronização em projetos.
 
 ## Tecnologias e Ferramentas
 Aqui estão algumas das tecnologias e ferramentas com as quais trabalho frequentemente:
