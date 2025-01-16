@@ -15,8 +15,8 @@ Aqui estão algumas das tecnologias e ferramentas com as quais trabalho frequent
 
 ## Experiência Profissional
 
-* ### Hábil Software - mar/2022 à atualmente
-   Atualmente, trabalho como desenvolvedor fullstack na [Hábil Software](https://www.habil.com.br) by [Limber](https://limbersoftware.com.br), onde contribuo para diversos projetos internos e privados hospedados no GitLab. Minhas responsabilidades incluem:
+* ### Hábil Software - mar/2022 à dez/2024
+   Trabalhei como desenvolvedor fullstack na [Hábil Software](https://www.habil.com.br) by [Limber](https://limbersoftware.com.br), onde contribuo para diversos projetos internos e privados hospedados no GitLab. Minhas responsabilidades incluem:
    
    - Desenvolvimento de aplicações utilizando Angular, Spring e Express
    - Implementação de novas funcionalidades e desenvolvimento de novos projetos
@@ -24,10 +24,19 @@ Aqui estão algumas das tecnologias e ferramentas com as quais trabalho frequent
    - Testes de qualidade
    - Participação em revisões de código e mentoria de novos desenvolvedores
    - Demais tarefas necessárias para garantir o sucesso dos projetos
+ 
+* ### Viasoft - dez/2024 à atualmente
+   Atualmente, trabalho como desenvolvedor fullstack na [Viasoft](https://viasoft.com.br), contribuindo para um projeto novo. Minhas responsabilidades até o momento:
+
+   - Desenvolvimento de aplicações utilizando Angular e Spring
+   - Implementação de novas funcionalidades
+   - Correção de bugs
+   - Revisões de código
+   - Deploy de aplicações em clientes
 
 ## Projetos:
 
-1. **[WebBicho](https://github.com/LuizSivan/WebBicho)**
+1. **[WebBicho](https://srv.webbicho.com.br/swagger)**
     - Atualmente, este é meu único projeto pessoal, ainda em fase de desenvolvimento. Este projeto é uma rede social com objetivo de centralizar a doação e adoção de animais e solucionar a falta de centralização deste processo.
     - **Tecnologias:** Angular, NestJS, PostgreSQL, GitHub
 
