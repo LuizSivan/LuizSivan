@@ -53,7 +53,7 @@ Você pode me encontrar nas seguintes plataformas:
 
 - LinkedIn: [Luiz Silva](https://www.linkedin.com/in/luizsilvajr/)
 - Email: [luizsv.dev@gmail.com](mailto:luizsv.dev@gmail.com)
-- WhatsApp: [+55 (46) 99112-1412](https://wa.me/554691121412)
+- WhatsApp: [+55 (46) 99117-7172](https://wa.me/554691177172)
 
 ## Linguagens Mais Usadas
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizSivan&layout=compact&theme=radical&hide=css)
