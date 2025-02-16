@@ -56,5 +56,5 @@ Você pode me encontrar nas seguintes plataformas:
 - WhatsApp: [+55 (46) 99117-7172](https://wa.me/554691177172)
 
 ## Linguagens Mais Usadas
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizSivan&layout=compact&theme=radical&hide=css)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=luizsvdev&layout=compact&theme=radical&hide=css)
 
