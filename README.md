@@ -41,7 +41,7 @@ Aqui estão algumas das tecnologias e ferramentas com as quais trabalho frequent
     - **Tecnologias:** Angular, NestJS, PostgreSQL, GitHub
 
 2. **[Hábil](https://www.habil.com.br)**
-   - Participo constantemente do desenvolvimento deste projeto, com foco em gestão financeira para empresas
+   - Participei de forma constante no desenvolvimento deste projeto, com foco em gestão financeira para empresas
    - **Tecnologias:** Angular, Spring, PostgreSQL, GitLab
 
 3. **[Limber Chef](https://limberchef.com.br)**
